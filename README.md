@@ -1,12 +1,12 @@
-# -Data-Analyst
-## Выполненные проекты за время обучения в Яндекс.Практикум по направлению "Специалист по Data Science"
+# Data Analyst
+## Выполненные проекты по направлению Data Analyst
 
 Проекты расположены в хронолигическом порядке их выполнения.
 
 ### Список проектов:
 | Название | Описание | Инструменты |  Ключевые слова  |
 | :------------------- | :---------------------- | :---------------------- | :------ |
-| [Исследование рынка недвижимости](https://github.com/brut0/yandex.praktikum_ds_projects/tree/main/Real_estate_analysis) |  Исследование данных и выявление факторов влияющих на цену квартиры. | `numpy` `pandas` `matplotlib` | EDA, analysis, feature engineering |
+| [Сравнение музыкальных предпочтений]([https://github.com/brut0/yandex.praktikum_ds_projects/tree/main/Real_estate_analysis](https://github.com/mrkvsv/-Data-Analyst/blob/main/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20DA.ipynb)) |  Сравнение музыкальных предпочтений жителей Москвы и Санкт-Петербурга на основе данных Яндекс.Музыки. | `numpy` `pandas` | EDA, analysis |
 | [Исследование надёжности заёмщиков банка](https://github.com/brut0/yandex.praktikum_ds_projects/tree/main/Clients_debt_analysis) | Обработка и исследование данных для выявления зависимостей на влияющих на платёжеспособность клииента банка. Построена модель кредитного скоринга. | `pandas` `pymystem` `ntlk` `matplotlib` | EDA, NLP, feature engineering |
 | [Определение выгодного тарифа для телеком компании](https://github.com/brut0/yandex.praktikum_ds_projects/tree/main/Tariffs_of_telecom) | Определение выгодного тарифа на основании данных о использовании услуг клиентами. Проанализированы данные и проверены гипотезы. | `numpy` `pandas` `matplotlib`  `scipy` | EDA, analysis, hypotesys testing |
 | [Анализ рынка компьютерных игр](https://github.com/brut0/yandex.praktikum_ds_projects/tree/main/Games_analysis) | Анализ данных о продажах компьютерных игр и проверка гипотез. | `pandas` `matplotlib` `scipy` | EDA, statistics, hypotesys testing |
